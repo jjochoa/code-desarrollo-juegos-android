@@ -10,7 +10,7 @@ import com.badlogic.gdx.graphics.FPSLogger;
  * Clase principal de la aplciación.
  * Hereda de Game para poder cambiar de pantalla
  * 
- * @author sagocru dev
+ * @author sagocr dev
  * 
  */
 public class Tyrian extends Game {	
@@ -57,7 +57,6 @@ public class Tyrian extends Game {
 		super.resize( width, height );
 		Gdx.app.log( Tyrian.LOG, "Resizing game to: " + width + " x " + height ); 
 		
-        // show the splash screen when the game is resized for the first time;
 		// muestra la pantalla de splash cuando el juego se redimensiona por primera vez
 		// asi evitamos llamadas repetidas a resize
  

@@ -6,7 +6,7 @@ package com.yo.migdxgame.screens;
 import com.yo.migdxgame.Tyrian;
 
 /**
- * @author sagocru dev
+ * @author sagoc dev
  * pantalla de perfil
  */
 public class ProfileScreen extends AbstractScreen {

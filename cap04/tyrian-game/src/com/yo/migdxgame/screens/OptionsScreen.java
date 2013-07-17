@@ -6,7 +6,7 @@ package com.yo.migdxgame.screens;
 import com.yo.migdxgame.Tyrian;
 
 /**
- * @author sagocru dev
+ * @author sagoc dev
  * pantalla de opciones
  */
 public class OptionsScreen extends AbstractScreen {

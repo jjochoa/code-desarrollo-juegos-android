@@ -6,7 +6,7 @@ package com.yo.migdxgame.screens;
 import com.yo.migdxgame.Tyrian;
 
 /**
- * @author sagocru dev
+ * @author sagoc dev
  * pantalla de récords
  */
 public class HallOfFameScreen extends AbstractScreen {

@@ -11,7 +11,7 @@ import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.yo.migdxgame.Tyrian;
 
 /**
- * @author sgomezc
+ * @author sagoc dev
  * Clase base para la mayoría de las pantallas
  */
 public abstract class AbstractScreen implements Screen {
